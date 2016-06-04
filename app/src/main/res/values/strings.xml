@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InterViewBookApp</string>
+    <string name="title_activity_question">QuestionActivity</string>
+</resources>
